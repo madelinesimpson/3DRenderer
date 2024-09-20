@@ -4,3 +4,4 @@
 
 ![](https://github.com/madelinesimpson/3DRenderer/blob/main/cube.gif)
 
+<p>Check out Renderer.cpp to see the main rendering process and Shaders.m to see the shader functions!</p>
